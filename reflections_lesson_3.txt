@@ -11,4 +11,8 @@ would you use one instead of another?
 - Forks are for cloning and editing other people's projects off of GitHub.
 Cloning is copying someone else's project from GitHub, but doesn't automatically create
 a remote to GitHub. Branching is done locally, if you are changing various
-components of a project. 
+components of a project.
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+- So you can work on it off line 
