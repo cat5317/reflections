@@ -20,3 +20,7 @@ remote stored locally?
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - It would be very difficult to share and compare changes with other people working on the same project.
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+- Changes should be made in a branch if you are testing out experimental features or if you are 
+working on a project with other people and want to share a change nefore makig it permanent. 
