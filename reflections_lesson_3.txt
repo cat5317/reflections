@@ -15,12 +15,12 @@ components of a project.
 
 What is the benefit of having a copy of the last known state of the
 remote stored locally?
-- So you can work on it off line 
+- So you can work on it off line
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - It would be very difficult to share and compare changes with other people working on the same project.
 
-When would you want to make changes in a separate branch rather than directly in master? 
+When would you want to make changes in a separate branch rather than directly in master?
 What benefits does each approach have?
-- Changes should be made in a branch if you are testing out experimental features or if you are 
-working on a project with other people and want to share a change nefore makig it permanent. 
+- Changes should be made in a branch if you are testing out experimental features or if you are
+working on a project with other people and want to share a change before making it permanent. 
